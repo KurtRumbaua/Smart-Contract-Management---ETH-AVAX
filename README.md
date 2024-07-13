@@ -29,8 +29,8 @@ To get the project running on your local machine, follow these steps:
    # Open another terminal in VS Code
    npm run dev
 
-###Authors
+### Authors
 Kurt Ian Rumbaua(kirrumbaua@mymail.mapua.edu.ph)
 
-###License
+### License
 This project is licensed under the Kurt Ian Rumbaua License - see the LICENSE.md file for details
